@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=sh ~/bin/Nordling/launch_nordling.sh
+GenericName[en_US]=NordVPN Tray Indicator
+GenericName=NordVPN Tray Indicator
+Icon=nordvpn_icon.svg
+MimeType=
+Name[en_US]=Nordling
+Name=Nordling
+Path=~/bin/Nordling/
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=Network;Utility;TrayIcon
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=
